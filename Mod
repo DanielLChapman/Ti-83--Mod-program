@@ -1,0 +1,51 @@
+Prompt A
+Prompt B
+While A>(B*1000000000000000000000)
+A-(B*1000000000000000000000)->A
+Disp A
+End
+While A>(B*1000000000000000000)
+A-(B*1000000000000000000)->A
+Disp A
+End
+While A>(B*1000000000000000)
+A-(B*1000000000000000)->A
+Disp A
+End
+While A>(B*1000000000000)
+A-(B*1000000000000)->A
+Disp A
+End
+While A>(B*1000000000)
+A-(B*1000000000)->A
+Disp A
+End
+While A>(B*1000000)
+A-(B*1000000)->A
+Disp A
+End
+While A>(B*100000)
+A-(B*100000)->A
+Disp A
+End
+While A>(B*10000)
+A-(B*10000)->A
+Disp A
+End
+While A>(B*1000)
+A-(B*1000)->A
+Disp A
+End
+While A>(B*100)
+A-(B*100)->A
+Disp A
+End
+While A>(B*10)
+A-(B*10)->A
+Disp A
+End
+While A>B
+A-B->A
+Disp A
+End
+Stop
